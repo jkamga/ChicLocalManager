@@ -1,0 +1,2 @@
+# ChicLocalManager
+CLIENT OF RESTFULL SERVICE 
